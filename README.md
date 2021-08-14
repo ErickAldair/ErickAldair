@@ -1,12 +1,6 @@
 <p align="center">
-<img src="https://www.canva.com/design/DAEnBXbAOBI/Uw61EG2YEm223IOKiYJTlw/view?utm_content=DAEnBXbAOBI&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&fbclid=IwAR0iCeEzCQG80cYzenR4B82HmwoJo2f9p3Sa12lP8To0T4lMp57YsPmcVOk">
-</p>
-<p align="center">
-  <h3 align="center">Doing magic at Belo</h3>
-  <p align="center">
-    <a href="https://belo.app/"><img align="center" src="https://media-exp1.licdn.com/dms/image/C560BAQE-X3IwEXVkKg/company-logo_200_200/0/1610602193232?e=1636588800&v=beta&t=ttObMEYaT9XJIyHS5MlQoNjn7UHTMRoxZdoCTQuRlV0" width="5%"></img></a>
-    <a href="https://belo.app/" target=”_blank”><img align="center" src="https://media-exp1.licdn.com/dms/image/C560BAQE-X3IwEXVkKg/company-logo_200_200/0/1610602193232?e=1636588800&v=beta&t=ttObMEYaT9XJIyHS5MlQoNjn7UHTMRoxZdoCTQuRlV0" width="5%"></img></a>
-  </p>
+<img src="">
+
 </p>
 <p align="center">
   <h3 align="center">Creator of StartFit</h3>
